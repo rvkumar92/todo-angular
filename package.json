@@ -1,0 +1,14 @@
+{
+  "name": "TodoApp-angular",
+  "version": "1.0.0",
+  "description": "Simple todo app that uses angular and node",
+  "main": "server.js",
+  "author": "main.js",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "method-override": "^2.3.5",
+    "morgan": "^1.6.1",
+    "redis": "^2.4.2"
+  }
+}
